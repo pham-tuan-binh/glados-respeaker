@@ -3,7 +3,7 @@
     "wake_word": "glados",
     "author": "Binh Pham",
     "website": "https://www.binhph.am",
-    "model": "./glados.tflite",
+    "model": "glados.tflite",
     "version": 2,
     "micro": {
       "probability_cutoff": 0.97,
