@@ -1130,6 +1130,9 @@ micro_wake_word:
     - model: https://github.com/pham-tuan-binh/glados-respeaker/releases/download/v1/glados.json
       # probability_cutoff: 0.8
       id: glados
+    - model: https://github.com/kahrendt/microWakeWord/releases/download/stop/stop.json
+      id: stop
+      internal: true
   vad:
     probability_cutoff: 0.05
   microphone: nabu_mic_mww
