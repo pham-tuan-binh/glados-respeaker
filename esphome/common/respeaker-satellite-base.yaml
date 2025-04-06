@@ -1127,6 +1127,10 @@ micro_wake_word:
     - model: https://github.com/kahrendt/microWakeWord/releases/download/okay_nabu_20241226.3/okay_nabu.json
       # probability_cutoff: 0.8
       id: okay_nabu
+    - model: hey_jarvis
+      id: hey_jarvis
+    - model: hey_mycroft
+      id: hey_mycroft
     - model: https://github.com/pham-tuan-binh/glados-respeaker/releases/download/v1/glados.json
       # probability_cutoff: 0.8
       id: glados
