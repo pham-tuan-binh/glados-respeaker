@@ -8,8 +8,12 @@ Walk-through video can be found on YouTube here:
 
 ## Hardware Requirements
 
+![](./images/components.jpg)
+
 - [ReSpeaker Lite Kit](https://www.seeedstudio.com/ReSpeaker-Lite-Voice-Assistant-Kit-Full-Kit-of-2-Mic-Array-pre-soldered-XIAO-ESP32S3-Mono-Enclosed-Speaker-and-Enclosure.html?sensecap_affiliate=3gToNR2&referring_service=link) from Seeed Studio
-- USB Type-C Cable with Data Transfer Capabilities
+- USB Type-C Cable with Data Transfer Capabilities.
+- 3d Printer to print enclosure (Details below).
+- M3/M2 screws (Details below).
 
 _If you don't have the ReSpeaker Lite kit yet, consider buying from my link above. It helps me a lot, building and compiling these resources. Also, if you want to buy anything from Seeed, this is my coupon: 5EB420ZS_
 
