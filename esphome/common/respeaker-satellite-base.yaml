@@ -1128,7 +1128,7 @@ micro_wake_word:
       # probability_cutoff: 0.8
       id: okay_nabu
     - model: https://github.com/pham-tuan-binh/glados-respeaker/releases/download/v1/glados.json
-      # probability_cutoff: 0.8
+      probability_cutoff: 0.73
       id: glados
     - model: https://github.com/kahrendt/microWakeWord/releases/download/stop/stop.json
       id: stop
@@ -1174,7 +1174,6 @@ voice_assistant:
   microphone: nabu_mic_va
   media_player: external_media_player
   micro_wake_word: mww
-  use_wake_word: false
   noise_suppression_level: 0
   auto_gain: 0 dbfs
   volume_multiplier: 1
