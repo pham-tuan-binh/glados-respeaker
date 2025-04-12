@@ -1,6 +1,6 @@
 # Potato GLaDOS Core for ReSpeaker Lite
 
-<img src="./images/potatos.jpg" width="600"></image>
+[![Potato Glados](https://img.youtube.com/vi/cL3-J8UTgvc/0.jpg)](https://www.youtube.com/watch?v=cL3-J8UTgvc)
 
 This project integrates the iconic voice of GLaDOS from Portal into your smart home by deploying it on a ReSpeaker Lite Kit using ESPHome and Home Assistant.
 
