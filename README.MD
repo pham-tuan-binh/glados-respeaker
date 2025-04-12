@@ -1,6 +1,6 @@
-# Control Your Smart Home with Real-life Potato GLaDOS
+# Potato GLaDOS Core for ReSpeaker Lite
 
-![](./images/potatos.jpg)
+<img src="./images/potatos.jpg" width="200"></image>
 
 This project integrates the iconic voice of GLaDOS from Portal into your smart home by deploying it on a ReSpeaker Lite Kit using ESPHome and Home Assistant.
 
@@ -21,14 +21,6 @@ _If you don't have the ReSpeaker Lite kit yet, consider buying from my link abov
 
 - [Home Assistant](https://www.home-assistant.io/)
 - Assist Pipeline configured in Home Assistant
-
-## Credits
-
-This project couldn't have been done without:
-
-- [Respeaker-Lite-ESPHome-integration](https://github.com/formatBCE/Respeaker-Lite-ESPHome-integration/tree/main) - ESPHome template for ReSpeaker
-- [GLaDOS Voice](https://github.com/dnhkng/GLaDOS) - GLaDOS voice model for TTS
-- [microWakeWord](https://github.com/kahrendt/microWakeWord) - Lightweight wake word detection
 
 # Step-by-step walkthrough
 
@@ -104,6 +96,14 @@ To build this setup, apart from the painting process, you will need:
 - 2 M2-5mm screw for securing the audio board.
 
 It's pretty straight-forward. _Note that there will be update soon regarding the model to improve the mic audio. For now, you can drill 2 holes in the bottom of the model for better mic audio quality._
+
+## Big thanks to
+
+This project couldn't have been done without:
+
+- [Respeaker-Lite-ESPHome-integration](https://github.com/formatBCE/Respeaker-Lite-ESPHome-integration/tree/main) - ESPHome template for ReSpeaker
+- [GLaDOS Voice](https://github.com/dnhkng/GLaDOS) - GLaDOS voice model for TTS
+- [microWakeWord](https://github.com/kahrendt/microWakeWord) - Lightweight wake word detection
 
 # Share your work
 
