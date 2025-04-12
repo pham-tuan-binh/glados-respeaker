@@ -4,7 +4,7 @@
 
 This project integrates the iconic voice of GLaDOS from Portal into your smart home by deploying it on a ReSpeaker Lite Kit using ESPHome and Home Assistant.
 
-Walk-through video can be found on YouTube here:
+Walk-through video can be found on YouTube here: https://youtu.be/cL3-J8UTgvc
 
 ## Hardware Requirements
 
@@ -89,15 +89,21 @@ This config was made by **FormatBCE** in [Respeaker-Lite-ESPHome-integration](ht
 
 P/S: The GLaDOS wake word model is trained by me and had a 99% accuracy 0.9 AUC at evaluation, so it is somewhat reliable. I doubt it is as reliable as micro-wakeword official model, but it's good.
 
-## 4. Print the case for Potato GLaDOS
+## 4. Print the enclosure for Potato GLaDOS
 
-The files for Potato GLaDOS is hosted on Thingiverse:
+The enclosures model can be found in /models, in which you'll find 3 .3mf files:
+
+- Top pota: Top of the potato
+- Bot pota: Bottom of the potato
+- Eye: The eye of GLaDOS
 
 To build this setup, apart from the painting process, you will need:
 
 - 2 M3-10mm screw for securing the speaker.
 - 1 M3-20mm screw for securing the enclosure.
 - 2 M2-5mm screw for securing the audio board.
+
+It's pretty straight-forward. _Note that there will be update soon regarding the model to improve the mic audio. For now, you can drill 2 holes in the bottom of the model for better mic audio quality._
 
 # Share your work
 
