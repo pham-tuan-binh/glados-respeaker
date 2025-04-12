@@ -1,6 +1,6 @@
 # Potato GLaDOS Core for ReSpeaker Lite
 
-<img src="./images/potatos.jpg" width="200"></image>
+<img src="./images/potatos.jpg" width="600"></image>
 
 This project integrates the iconic voice of GLaDOS from Portal into your smart home by deploying it on a ReSpeaker Lite Kit using ESPHome and Home Assistant.
 
@@ -8,7 +8,7 @@ Walk-through video can be found on YouTube here: https://youtu.be/cL3-J8UTgvc
 
 ## Hardware Requirements
 
-![](./images/components.jpg)
+<img src="./images/components.jpg" width="600"></image>
 
 - [ReSpeaker Lite Kit](https://www.seeedstudio.com/ReSpeaker-Lite-Voice-Assistant-Kit-Full-Kit-of-2-Mic-Array-pre-soldered-XIAO-ESP32S3-Mono-Enclosed-Speaker-and-Enclosure.html?sensecap_affiliate=3gToNR2&referring_service=link) from Seeed Studio
 - USB Type-C Cable with Data Transfer Capabilities.
